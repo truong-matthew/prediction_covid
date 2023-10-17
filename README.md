@@ -1,2 +1,2 @@
 # prediction_covid
-Herd immunity Prediction Models (Older project - reuploaded)
+Herd immunity Prediction Models -- Older project reuploaded
